@@ -9,14 +9,14 @@
 
 # 🚀 Featured Projects
 
-### [Hertz (MusicPlayer)](https://github.com/ArshaFrn/MusicPlayer)
+### [Hertz](https://github.com/ArshaFrn/MusicPlayer)
 *🎵 An advanced music player application built for seamless audio experience.*
 
 ### [AirScribe](https://github.com/ArshaFrn/AirScribe)
 *📝 A Python-powered tool for transcription and note-taking.*
 
 ### [Spymaster](https://myket.ir/app/com.prospy.spymaster)
-**
+*A fun Spy Game with extra roles made with flutter dart*
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArshaFrn&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
