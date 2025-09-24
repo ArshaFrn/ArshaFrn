@@ -8,15 +8,12 @@
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # 🚀 Featured Projects
-
 ### [Hertz](https://github.com/ArshaFrn/MusicPlayer)
 *🎵 An advanced music player application built for seamless audio experience.*
-
 ### [AirScribe](https://github.com/ArshaFrn/AirScribe)
 *📝 A Python-powered tool for transcription and note-taking.*
-
 ### [Spymaster](https://myket.ir/app/com.prospy.spymaster)
-*A fun Spy Game with extra roles made with flutter dart*
+*🕵️‍♂️ A fun Spy Game with extra roles and User-Friendly UI/UX*
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArshaFrn&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
